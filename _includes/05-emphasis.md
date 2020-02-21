@@ -14,4 +14,4 @@ Below is a _list_ of my **technical skills**:
 
 #### Other Skills
 - Riding
-- Pet Training
+- Pet Training Mainly Dogs
