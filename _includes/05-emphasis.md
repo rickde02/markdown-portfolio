@@ -7,11 +7,11 @@ Below is a _list_ of my **technical skills**:
 - Go
 - Python
 
-#### Other Skills
-- Riding
-- Pet Training
-
 ## Collaboration
 - GitHub
 - DevOps
 - Teams
+
+#### Other Skills
+- Riding
+- Pet Training
